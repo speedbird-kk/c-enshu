@@ -2,7 +2,6 @@
  * enshu02.c
  *
  *  Created on: 2024/10/27
- *      Author: win
  */
 
 #include <stdio.h>
